@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radyocu 1.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Radyocu"
+msgstr "Radyocu"
+
+msgid "Custom Link"
+msgstr "Benutzerdefinierter Link"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Delete Selected Radio"
+msgstr "Ausgewählten Sender löschen"
+
+msgid "Clear All Favorites"
+msgstr "Alle Favoriten löschen"
+
+msgid "Import M3U List"
+msgstr "M3U-Liste importieren"
+
+msgid "Export M3U List"
+msgstr "M3U-Liste exportieren"
+
+msgid "User Manual"
+msgstr "Benutzerhandbuch"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Are you sure you want to delete all favorites?"
+msgstr "Möchten Sie wirklich alle Favoriten löschen?"
+
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+# DETAYLI ALMANCA KILAVUZ
+msgid "RADYOCU_MANUAL_TEXT"
+msgstr ""
+"RADYOCU ADD-ON - DETAILLIERTES HANDBUCH\n"
+"\n"
+"1. EINFÜHRUNG\n"
+"Radyocu ist ein leichter, barrierefreier Radio-Player für NVDA, der im Hintergrund läuft.\n"
+"\n"
+"2. SUCHE & WIEDERGABE\n"
+"A) Namenssuche:\n"
+"- Geben Sie den Namen ein.\n"
+"- Drücken Sie 'Suchen' oder Enter.\n"
+"- Wählen Sie aus der Liste und drücken Sie F7.\n"
+"\n"
+"B) Link-Wiedergabe (URL):\n"
+"- Fügen Sie eine Stream-URL ein und drücken Sie Enter. Der Name wird automatisch gefunden.\n"
+"\n"
+"3. LISTENVERWALTUNG\n"
+"- Favoriten: Jeder gespielte Sender wird automatisch alphabetisch gespeichert.\n"
+"- M3U: Import/Export über das Menü Optionen.\n"
+"\n"
+"4. TASTENKÜRZEL\n"
+"Global:\n"
+"* NVDA + Umschalt + Strg + Z: Öffnen\n"
+"\n"
+"Im Fenster:\n"
+"* F5: Lauter (+5%)\n"
+"* F6: Leiser (-5%)\n"
+"* F7: Wiedergabe\n"
+"* F8: Stopp\n"
+"* F9: Nächster Sender\n"
+"* F10: Vorheriger Sender\n"
+"* ESC: Ausblenden (Spielt weiter)\n"
+"\n"
+"Viel Spaß!"
+
+msgid ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+msgstr ""
+"Radyocu v1.4.0\n"
+"Entwickler: Erol Ulker\n"
+"E-Mail: m.erolulker@gmail.com"
+
+msgid "Search Radio (Name or Link):"
+msgstr "Radio suchen (Name oder Link):"
+
+msgid "Find"
+msgstr "Suchen"
+
+msgid "Search Results:"
+msgstr "Suchergebnisse:"
+
+msgid "My Favorites:"
+msgstr "Meine Favoriten:"
+
+msgid "Ready."
+msgstr "Bereit."
+
+msgid "Play (F7)"
+msgstr "Abspielen (F7)"
+
+msgid "Stop (F8)"
+msgstr "Stopp (F8)"
+
+msgid "Volume:"
+msgstr "Lautstärke:"
+
+msgid "Hide"
+msgstr "Ausblenden"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Please select a radio."
+msgstr "Bitte wählen Sie einen Sender aus."
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Playing:"
+msgstr "Wiedergabe:"
+
+msgid "Stopped."
+msgstr "Gestoppt."
+
+msgid "Searching..."
+msgstr "Suche läuft..."
+
+msgid "Error: Connection problem."
+msgstr "Fehler: Verbindungsproblem."
+
+msgid "No results."
+msgstr "Keine Ergebnisse."
+
+msgid "Untitled"
+msgstr "Unbenannt"
+
+msgid "found."
+msgstr "gefunden."
+
+msgid "Deleted."
+msgstr "Gelöscht."
+
+msgid "Cleared."
+msgstr "Gelöscht."
+
+msgid "Imported."
+msgstr "Importiert."
+
+msgid "Error occurred."
+msgstr "Fehler aufgetreten."
+
+msgid "Saved."
+msgstr "Gespeichert."
+
+msgid "Failed."
+msgstr "Fehlgeschlagen."
+
+msgid "Hidden."
+msgstr "Versteckt."

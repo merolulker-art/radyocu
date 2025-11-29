@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radyocu 1.4\n"
+"Report-Msgid-Bugs-To: m.erolulker@gmail.com\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: 2025-11-29 17:31+0300\n"
+"Last-Translator: Erol Ulker\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Radyocu"
+msgstr "Radyocu"
+
+msgid "Custom Link"
+msgstr "Özel Bağlantı"
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Delete Selected Radio"
+msgstr "Seçili Radyoyu Sil"
+
+msgid "Clear All Favorites"
+msgstr "Tüm Listeyi Temizle"
+
+msgid "Import M3U List"
+msgstr "M3U Listesi İçeri Aktar"
+
+msgid "Export M3U List"
+msgstr "M3U Listesi Dışarı Aktar"
+
+msgid "User Manual"
+msgstr "Kullanım Kılavuzu"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Are you sure you want to delete all favorites?"
+msgstr "Tüm favoriler silinsin mi?"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+# İşte burada çok detaylı kılavuz metni
+msgid "RADYOCU_MANUAL_TEXT"
+msgstr ""
+"RADYOCU EKLENTİSİ - DETAYLI KULLANIM KILAVUZU\n"
+"\n"
+"1. EKLENTİ HAKKINDA\n"
+"Radyocu, NVDA kullanıcıları için geliştirilmiş, sistem kaynaklarını yormayan, arka planda çalışabilen erişilebilir bir radyo oynatıcısıdır. Eklenti; Türkçe, İngilizce, Almanca, Fransızca, İspanyolca ve İtalyanca dillerini destekler.\n"
+"\n"
+"2. ARAMA VE DİNLEME YÖNTEMLERİ\n"
+"A) İsimle Arama:\n"
+"- 'Radyo Ara' kutusuna dinlemek istediğiniz radyonun adını yazın.\n"
+"- 'Bul' butonuna basın veya Enter tuşlayın.\n"
+"- Sonuçlar listesinden ok tuşlarıyla seçip F7 veya Enter ile oynatın.\n"
+"\n"
+"B) Link (URL) ile Çalma:\n"
+"- Elinizde bir radyo yayın linki varsa (http/https), arama kutusuna yapıştırıp Enter'a basmanız yeterlidir. Radyo adı otomatik bulunur.\n"
+"\n"
+"3. LİSTE YÖNETİMİ\n"
+"- Favoriler: Dinlediğiniz her radyo otomatik olarak favorilere eklenir ve alfabetik sıralanır.\n"
+"- M3U Desteği: Seçenekler menüsünden radyo listelerinizi yedekleyebilir veya geri yükleyebilirsiniz.\n"
+"\n"
+"4. KLAVYE KISAYOLLARI\n"
+"Genel:\n"
+"* NVDA + Shift + Ctrl + Z: Eklentiyi Aç\n"
+"\n"
+"Pencere İçi:\n"
+"* F5: Sesi Artır (+%5)\n"
+"* F6: Sesi Azalt (-%5)\n"
+"* F7: Seçili Radyoyu Oynat\n"
+"* F8: Çalmayı Durdur\n"
+"* F9: Sonraki Radyoya Geç\n"
+"* F10: Önceki Radyoya Geç\n"
+"* ESC: Pencereyi Gizle (Radyo çalmaya devam eder)\n"
+"\n"
+"İyi dinlemeler!"
+
+msgid ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+msgstr ""
+"Radyocu v1.4.0\n"
+"Geliştirici: Erol Ulker\n"
+"E-posta: m.erolulker@gmail.com"
+
+msgid "Search Radio (Name or Link):"
+msgstr "Radyo Ara (İsim veya Link):"
+
+msgid "Find"
+msgstr "Bul"
+
+# Hatalı okunan yerler DÜZELTİLDİ
+msgid "Search Results:"
+msgstr "Arama Sonuçları:"
+
+msgid "My Favorites:"
+msgstr "Favorilerim:"
+
+msgid "Ready."
+msgstr "Hazır."
+
+msgid "Play (F7)"
+msgstr "Oynat (F7)"
+
+msgid "Stop (F8)"
+msgstr "Durdur (F8)"
+
+msgid "Volume:"
+msgstr "Ses:"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "Please select a radio."
+msgstr "Lütfen bir radyo seçin."
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Playing:"
+msgstr "Çalınıyor:"
+
+msgid "Stopped."
+msgstr "Durduruldu."
+
+msgid "Searching..."
+msgstr "Aranıyor..."
+
+msgid "Error: Connection problem."
+msgstr "Hata: Bağlantı sorunu."
+
+msgid "No results."
+msgstr "Sonuç yok."
+
+msgid "Untitled"
+msgstr "Adsız"
+
+msgid "found."
+msgstr "bulundu."
+
+msgid "Deleted."
+msgstr "Silindi."
+
+msgid "Cleared."
+msgstr "Temizlendi."
+
+msgid "Imported."
+msgstr "Yüklendi."
+
+msgid "Error occurred."
+msgstr "Hata oluştu."
+
+msgid "Saved."
+msgstr "Kaydedildi."
+
+msgid "Failed."
+msgstr "Başarısız."
+
+msgid "Hidden."
+msgstr "Gizlendi."

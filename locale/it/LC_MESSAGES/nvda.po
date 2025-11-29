@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radyocu 1.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Radyocu"
+msgstr "Radyocu"
+
+msgid "Custom Link"
+msgstr "Link personalizzato"
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "Delete Selected Radio"
+msgstr "Elimina radio selezionata"
+
+msgid "Clear All Favorites"
+msgstr "Cancella tutti i preferiti"
+
+msgid "Import M3U List"
+msgstr "Importa lista M3U"
+
+msgid "Export M3U List"
+msgstr "Esporta lista M3U"
+
+msgid "User Manual"
+msgstr "Manuale utente"
+
+msgid "About"
+msgstr "Informazioni"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Are you sure you want to delete all favorites?"
+msgstr "Sei sicuro di voler cancellare tutto?"
+
+msgid "Confirmation"
+msgstr "Conferma"
+
+# DETAYLI İTALYANCA KILAVUZ
+msgid "RADYOCU_MANUAL_TEXT"
+msgstr ""
+"AGGIUNTIVO RADYOCU - MANUALE DETTAGLIATO\n"
+"\n"
+"1. INTRODUZIONE\n"
+"Radyocu è un lettore radio leggero e accessibile per NVDA.\n"
+"\n"
+"2. RICERCA E RIPRODUZIONE\n"
+"A) Per Nome:\n"
+"- Scrivi il nome.\n"
+"- Premi 'Cerca' o Invio.\n"
+"- Seleziona e premi F7.\n"
+"\n"
+"B) Per Link (URL):\n"
+"- Incolla l'URL dello stream e premi Invio. Il nome viene recuperato automaticamente.\n"
+"\n"
+"3. GESTIONE ELENCHI\n"
+"- Preferiti: Salvataggio automatico e ordine alfabetico.\n"
+"- M3U: Importa/Esporta dal menu Opzioni.\n"
+"\n"
+"4. TASTI DI SCELTA RAPIDA\n"
+"Globale:\n"
+"* NVDA + Shift + Ctrl + Z: Apri\n"
+"\n"
+"Finestra:\n"
+"* F5: Volume Su (+5%)\n"
+"* F6: Volume Giù (-5%)\n"
+"* F7: Riproduci\n"
+"* F8: Stop\n"
+"* F9: Successivo\n"
+"* F10: Precedente\n"
+"* ESC: Nascondi (Continua a suonare)\n"
+"\n"
+"Buon ascolto!"
+
+msgid ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+msgstr ""
+"Radyocu v1.4.0\n"
+"Sviluppatore: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+
+msgid "Search Radio (Name or Link):"
+msgstr "Cerca (Nome o Link):"
+
+msgid "Find"
+msgstr "Cerca"
+
+msgid "Search Results:"
+msgstr "Risultati della ricerca:"
+
+msgid "My Favorites:"
+msgstr "I miei preferiti:"
+
+msgid "Ready."
+msgstr "Pronto."
+
+msgid "Play (F7)"
+msgstr "Riproduci (F7)"
+
+msgid "Stop (F8)"
+msgstr "Stop (F8)"
+
+msgid "Volume:"
+msgstr "Volume:"
+
+msgid "Hide"
+msgstr "Nascondi"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "Please select a radio."
+msgstr "Si prega di selezionare una radio."
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "Playing:"
+msgstr "In riproduzione:"
+
+msgid "Stopped."
+msgstr "Fermato."
+
+msgid "Searching..."
+msgstr "Ricerca in corso..."
+
+msgid "Error: Connection problem."
+msgstr "Errore: Problema di connessione."
+
+msgid "No results."
+msgstr "Nessun risultato."
+
+msgid "Untitled"
+msgstr "Senza titolo"
+
+msgid "found."
+msgstr "trovato."
+
+msgid "Deleted."
+msgstr "Eliminato."
+
+msgid "Cleared."
+msgstr "Cancellato."
+
+msgid "Imported."
+msgstr "Importato."
+
+msgid "Error occurred."
+msgstr "Si è verificato un errore."
+
+msgid "Saved."
+msgstr "Salvato."
+
+msgid "Failed."
+msgstr "Fallito."
+
+msgid "Hidden."
+msgstr "Nascosto."

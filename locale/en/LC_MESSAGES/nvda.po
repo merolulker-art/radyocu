@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radyocu 1.4\n"
+"Report-Msgid-Bugs-To: m.erolulker@gmail.com\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: 2025-11-29 17:30+0300\n"
+"Last-Translator: Erol Ulker\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Radyocu"
+msgstr "Radyocu"
+
+msgid "Custom Link"
+msgstr "Custom Link"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Delete Selected Radio"
+msgstr "Delete Selected Radio"
+
+msgid "Clear All Favorites"
+msgstr "Clear All Favorites"
+
+msgid "Import M3U List"
+msgstr "Import M3U List"
+
+msgid "Export M3U List"
+msgstr "Export M3U List"
+
+msgid "User Manual"
+msgstr "User Manual"
+
+msgid "About"
+msgstr "About"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Are you sure you want to delete all favorites?"
+msgstr "Are you sure you want to delete all favorites?"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+# DETAYLI İNGİLİZCE KILAVUZ
+msgid "RADYOCU_MANUAL_TEXT"
+msgstr ""
+"RADYOCU ADD-ON - DETAILED USER MANUAL\n"
+"\n"
+"1. INTRODUCTION\n"
+"Radyocu is a lightweight, accessible radio player for NVDA users that runs in the background without needing a browser.\n"
+"\n"
+"2. SEARCH & PLAY METHODS\n"
+"A) Search by Name:\n"
+"- Type the station name in the search box.\n"
+"- Press 'Find' or Enter.\n"
+"- Select from the list and press F7 or Enter to play.\n"
+"\n"
+"B) Play by Link (URL):\n"
+"- Paste any direct stream URL (http/https) into the search box and press Enter. The station name is fetched automatically.\n"
+"\n"
+"3. LIST MANAGEMENT\n"
+"- Favorites: Every station you play is automatically added and sorted alphabetically.\n"
+"- M3U Support: You can Import/Export your playlists via the Options menu.\n"
+"\n"
+"4. KEYBOARD SHORTCUTS\n"
+"Global:\n"
+"* NVDA + Shift + Ctrl + Z: Open Add-on\n"
+"\n"
+"In-Window:\n"
+"* F5: Volume Up (+5%)\n"
+"* F6: Volume Down (-5%)\n"
+"* F7: Play Selected\n"
+"* F8: Stop Playback\n"
+"* F9: Next Station\n"
+"* F10: Previous Station\n"
+"* ESC: Hide Window (Keeps playing)\n"
+"\n"
+"Enjoy listening!"
+
+msgid ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+msgstr ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+
+msgid "Search Radio (Name or Link):"
+msgstr "Search Radio (Name or Link):"
+
+msgid "Find"
+msgstr "Find"
+
+msgid "Search Results:"
+msgstr "Search Results:"
+
+msgid "My Favorites:"
+msgstr "My Favorites:"
+
+msgid "Ready."
+msgstr "Ready."
+
+msgid "Play (F7)"
+msgstr "Play (F7)"
+
+msgid "Stop (F8)"
+msgstr "Stop (F8)"
+
+msgid "Volume:"
+msgstr "Volume:"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Please select a radio."
+msgstr "Please select a radio."
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Playing:"
+msgstr "Playing:"
+
+msgid "Stopped."
+msgstr "Stopped."
+
+msgid "Searching..."
+msgstr "Searching..."
+
+msgid "Error: Connection problem."
+msgstr "Error: Connection problem."
+
+msgid "No results."
+msgstr "No results."
+
+msgid "Untitled"
+msgstr "Untitled"
+
+msgid "found."
+msgstr "found."
+
+msgid "Deleted."
+msgstr "Deleted."
+
+msgid "Cleared."
+msgstr "Cleared."
+
+msgid "Imported."
+msgstr "Imported."
+
+msgid "Error occurred."
+msgstr "Error occurred."
+
+msgid "Saved."
+msgstr "Saved."
+
+msgid "Failed."
+msgstr "Failed."
+
+msgid "Hidden."
+msgstr "Hidden."

@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radyocu 1.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Radyocu"
+msgstr "Radyocu"
+
+msgid "Custom Link"
+msgstr "Lien personnalisé"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Delete Selected Radio"
+msgstr "Supprimer la radio sélectionnée"
+
+msgid "Clear All Favorites"
+msgstr "Effacer tous les favoris"
+
+msgid "Import M3U List"
+msgstr "Importer liste M3U"
+
+msgid "Export M3U List"
+msgstr "Exporter liste M3U"
+
+msgid "User Manual"
+msgstr "Manuel d'utilisation"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Are you sure you want to delete all favorites?"
+msgstr "Voulez-vous vraiment tout effacer ?"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+# DETAYLI FRANSIZCA KILAVUZ
+msgid "RADYOCU_MANUAL_TEXT"
+msgstr ""
+"EXTENSION RADYOCU - MANUEL DÉTAILLÉ\n"
+"\n"
+"1. INTRODUCTION\n"
+"Radyocu est un lecteur radio léger et accessible pour NVDA.\n"
+"\n"
+"2. RECHERCHE ET LECTURE\n"
+"A) Par Nom :\n"
+"- Tapez le nom.\n"
+"- Appuyez sur 'Trouver' ou Entrée.\n"
+"- Sélectionnez et appuyez sur F7.\n"
+"\n"
+"B) Par Lien (URL) :\n"
+"- Collez l'URL du flux et appuyez sur Entrée. Le nom est récupéré automatiquement.\n"
+"\n"
+"3. GESTION DES LISTES\n"
+"- Favoris : Sauvegarde automatique et tri alphabétique.\n"
+"- M3U : Importation/Exportation via le menu Options.\n"
+"\n"
+"4. RACCOURCIS CLAVIER\n"
+"Global :\n"
+"* NVDA + Maj + Ctrl + Z : Ouvrir\n"
+"\n"
+"Fenêtre :\n"
+"* F5 : Volume Haut (+5%)\n"
+"* F6 : Volume Bas (-5%)\n"
+"* F7 : Lecture\n"
+"* F8 : Arrêt\n"
+"* F9 : Suivant\n"
+"* F10 : Précédent\n"
+"* ESC : Masquer (Continue en arrière-plan)\n"
+"\n"
+"Bonne écoute !"
+
+msgid ""
+"Radyocu v1.4.0\n"
+"Developer: Erol Ulker\n"
+"Email: m.erolulker@gmail.com"
+msgstr ""
+"Radyocu v1.4.0\n"
+"Développeur : Erol Ulker\n"
+"Email : m.erolulker@gmail.com"
+
+msgid "Search Radio (Name or Link):"
+msgstr "Rechercher (Nom ou Lien):"
+
+msgid "Find"
+msgstr "Trouver"
+
+msgid "Search Results:"
+msgstr "Résultats de la recherche :"
+
+msgid "My Favorites:"
+msgstr "Mes favoris :"
+
+msgid "Ready."
+msgstr "Prêt."
+
+msgid "Play (F7)"
+msgstr "Lecture (F7)"
+
+msgid "Stop (F8)"
+msgstr "Arrêt (F8)"
+
+msgid "Volume:"
+msgstr "Volume :"
+
+msgid "Hide"
+msgstr "Masquer"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Please select a radio."
+msgstr "Veuillez sélectionner une radio."
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Playing:"
+msgstr "Lecture :"
+
+msgid "Stopped."
+msgstr "Arrêté."
+
+msgid "Searching..."
+msgstr "Recherche..."
+
+msgid "Error: Connection problem."
+msgstr "Erreur : Problème de connexion."
+
+msgid "No results."
+msgstr "Aucun résultat."
+
+msgid "Untitled"
+msgstr "Sans titre"
+
+msgid "found."
+msgstr "trouvé."
+
+msgid "Deleted."
+msgstr "Supprimé."
+
+msgid "Cleared."
+msgstr "Effacé."
+
+msgid "Imported."
+msgstr "Importé."
+
+msgid "Error occurred."
+msgstr "Une erreur est survenue."
+
+msgid "Saved."
+msgstr "Enregistré."
+
+msgid "Failed."
+msgstr "Échoué."
+
+msgid "Hidden."
+msgstr "Masqué."
